@@ -91,9 +91,11 @@ This is source code of my book.
 
 第128页 练习，map map 前面应该是(.).(.) 而不是(.)、(.) 。
 
-第159页 8.10 简vd单 中混进了几个字母，应该删除。
+第134页 倒数第3行，`Notingh`应为`Nothing`。
 
 第146页 Haskell 2000应该为Haskell 2010.
+
+第159页 8.10 简vd单 中混进了几个字母，应该删除。
 
 第181页 第3段代码，>runParser num应该为>runParser number
 
