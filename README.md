@@ -91,7 +91,7 @@ This is source code of my book.
 
 第128页 练习，map map 前面应该是(.).(.) 而不是(.)、(.) 。
 
-第134页 倒数第3行，`Notingh`应为`Nothing`。
+第134页 第4段代码，`Nothig`应为`Nothing`；倒数第3行，`Notingh`应为`Nothing`。
 
 第146页 Haskell 2000应该为Haskell 2010.
 
